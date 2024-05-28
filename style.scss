@@ -70,6 +70,7 @@ header .content{
             height: 50vh;
             grid-area: 1/1/2/2;
             z-index: 5;
+            object-fit: contain;
         }
 
         .dotgrid{
